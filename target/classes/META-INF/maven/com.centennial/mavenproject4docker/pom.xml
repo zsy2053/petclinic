@@ -85,7 +85,7 @@
       </plugins>
     </pluginManagement>
     
-    <!-- <finalName>mavenproject4docker</finalName> -->
+    <finalName>mavenproject4docker</finalName>
     
   </build>
 </project>
